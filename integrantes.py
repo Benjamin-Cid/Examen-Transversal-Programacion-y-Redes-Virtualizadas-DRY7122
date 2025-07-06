@@ -1,5 +1,5 @@
 integrantes = [
-    "Benjamín Cid",
+    "Benjamin Cid",
     "Gabriel Arroyo",
     "Brayan Mendoza"
 ]
